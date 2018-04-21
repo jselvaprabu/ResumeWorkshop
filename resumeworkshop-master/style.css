@@ -1,0 +1,28 @@
+#header{
+	background-color:#c4cad3
+}
+.title
+{
+	color:#bb5511;
+	font-size:20px;
+	text-transform:uppercase;
+}
+.period
+{
+	color:#871211;
+	text-decoration:underline;
+}
+.desktop #phone{
+	display:none;
+}
+.mobile #header{
+	padding-top:8px;
+	font-size:20px;
+}
+#phone{
+		padding-bottom:16px;
+		border-bottom:1px solid #232222
+}
+.mobile .title{
+	color:#1129c4
+}
